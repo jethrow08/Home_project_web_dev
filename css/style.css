@@ -9765,7 +9765,7 @@ textarea {
         bottom: 0;
         top: 0;
         z-index: 1;
-        background: rgba(34, 34, 34, 0.4); }
+         }
         @media (max-width: 768px) {
           .hero {
             height: 70vh; /* Adjust height for smaller screens */
